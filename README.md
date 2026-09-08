@@ -2,6 +2,12 @@
 
 Sistema web de gestão de chamados para uma empresa de suporte técnico.
 
+#Contribuidores
+- [@Jeanlukas1](https://github.com/Jeanlukas1)
+- [@Gabriell-Bravo](https://github.com/Gabriell-Bravo)
+- [@Cristian-Bryan](https://github.com/Cristian-Bryan)
+- [@ThiagoRiey](https://github.com/ThiagoRiey)
+
 ## Objetivo
 
 Planejar uma aplicação web capaz de centralizar o registro, acompanhamento, atualização e encerramento de chamados de suporte, substituindo o controle realizado por planilhas e mensagens dispersas.
