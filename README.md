@@ -2,10 +2,12 @@
 
 Sistema web de gestão de chamados para uma empresa de suporte técnico.
 
-#Contribuidores
-- [@Jeanlukas1](https://github.com/Jeanlukas1)
-- [@Gabriell-Bravo](https://github.com/Gabriell-Bravo)
+# Equipe
+
+- [@AndreyODev](https://github.com/AndreyODev)
 - [@Cristian-Bryan](https://github.com/Cristian-Bryan)
+- [@Gabriell-Bravo](https://github.com/Gabriell-Bravo)
+- [@Jeanlukas1](https://github.com/Jeanlukas1)
 - [@ThiagoRiey](https://github.com/ThiagoRiey)
 
 ## Objetivo
