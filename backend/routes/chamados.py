@@ -1,6 +1,6 @@
 from fastapi import APIRouter
-from backend.controllers.chamados import obter_chamados, cadastrar_chamado
-from backend.schemas.chamados import ChamadoRequest
+from controllers.chamados import obter_chamados, cadastrar_chamado
+from schemas.chamados import ChamadoRequest
 
 router = APIRouter()
 
