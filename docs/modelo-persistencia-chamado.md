@@ -1,10 +1,10 @@
-# Modelo de Persistência — Chamado
+# Modelo de Persistência - Chamado
 
 ## Entidade
 
 A entidade Chamado representa uma solicitação de suporte registrada pela API e armazenada de forma persistente no banco de dados.
 
-## Modelo simplificado
+## Modelo
 
 Chamado
 - id: identificador único
