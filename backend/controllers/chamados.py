@@ -1,5 +1,5 @@
-from backend.schemas.chamados import ChamadoRequest
-from backend.services.chamados import listar_chamados, criar_chamado
+from schemas.chamados import ChamadoRequest
+from services.chamados import listar_chamados, criar_chamado
 
 def obter_chamados():
     return listar_chamados()
