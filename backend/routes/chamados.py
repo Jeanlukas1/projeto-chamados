@@ -1,10 +1,10 @@
 from fastapi import APIRouter, status
 from controllers.chamados import obter_chamados, cadastrar_chamado
-from schemas.chamados import ChamadoRequest, ChamadoResponse
+from schemas.chamados import ChamadoRequest, ChamadoResponse, ListChamadosResponse
 
 router = APIRouter()
 
-@router.get("/chamados", status_code=status.HTTP_200_OK, response_model=ChamadoResponse)
+@router.get("/chamados", status_code=status.HTTP_200_OK, response_model=ListChamadosResponse)
 def listar_chamados():
     return obter_chamados()
 

@@ -3,7 +3,10 @@ from schemas.chamados import ChamadoRequest
 from exceptions.exceptions import InternalServerError
 
 def listar_chamados() -> dict:
-    return chamados
+    return {
+        "chamados": chamados,
+        "tamanho": len(chamados)
+    }
 
 def criar_chamado(dados: ChamadoRequest) -> dict:
     try:
